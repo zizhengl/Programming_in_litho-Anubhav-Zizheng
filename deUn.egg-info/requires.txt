@@ -1,0 +1,5 @@
+gdshelpers
+gdspy
+gdsfactory
+geos
+numpy

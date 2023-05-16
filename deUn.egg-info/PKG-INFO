@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: deUn
+Version: 0.0.1
+Summary: A package that contains all the devices in QPSI.
+Home-page: UNKNOWN
+Author: QPSI on Mar, 22nd, 2023
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating system:: Win
